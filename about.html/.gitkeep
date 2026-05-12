@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenTech Solutions | Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <nav aria-label="Main navigation">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="products.html">Products</a>
+            <a href="resources.html">Resources</a>
+            <a href="contact.html">Contact</a>
+            <a href="final.html">The Final</a>
+        </nav>
+
+        <section class="hero">
+            <h1>GreenTech Solutions</h1>
+            <p>Eco-friendly technology for a cleaner, smarter, and more sustainable future.</p>
+            <a class="button" href="products.html">Explore Our Solutions</a>
+        </section>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Building a Better Planet Through Technology</h2>
+            <p>
+                GreenTech Solutions helps businesses and individuals reduce their carbon footprint
+                through smart environmental technology, energy-saving tools, recycling systems,
+                and carbon tracking software.
+            </p>
+        </section>
+
+        <section class="cards">
+            <article class="card">
+                <h3>Energy-Efficient Devices</h3>
+                <p>
+                    Our smart devices help companies lower energy use and reduce monthly utility costs.
+                </p>
+            </article>
+
+            <article class="card">
+                <h3>Sustainable Recycling Systems</h3>
+                <p>
+                    Technology-powered recycling stations make waste sorting easier and more effective.
+                </p>
+            </article>
+
+            <article class="card">
+                <h3>Carbon Tracking Software</h3>
+                <p>
+                    Track emissions, measure progress, and make better sustainability decisions.
+                </p>
+            </article>
+        </section>
+
+        <section class="earth-day">
+            <h2>Why Sustainability is important for everyone's future</h2>
+            <p>
+                Every small action can make a difference. GreenTech Solutions believes that businesses
+                can grow while also protecting the environment for future generations.
+            </p>
+
+            <ul>
+                <li>Reduce energy waste</li>
+                <li>Support cleaner communities</li>
+                <li>Make eco-friendly choices easier</li>
+                <li>Use technology to protect the planet</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>2026 GreenTech Solutions.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
