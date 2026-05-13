@@ -186,3 +186,22 @@ button:focus {
         font-size: 30px;
     }
 }
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+input,
+textarea {
+    padding: 12px;
+    border: 2px solid #1b4332;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
